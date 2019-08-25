@@ -1,0 +1,10 @@
+[package]
+name = "lv_font_reader"
+version = "0.1.0"
+authors = ["Martijn Groeneveldt <martijn.groeneveldt@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bitreader = "0.3.1"
